@@ -36,10 +36,16 @@ The rapid increase in time series data volumes demands innovative compression te
 
 ---
 
+
+
 ## Supervisor
 **Mario A. Nascimento**  
 LinkedIn: [Mario A. Nascimento](https://www.linkedin.com/in/mario-nascimento-a9362a3/)  
 **Title:** Professor of the Practice
+
+---
+## Main design
+See [design & results](https://github.com/UncleChen2018/TSFM_thesis/tree/main/figs).
 
 ---
 
