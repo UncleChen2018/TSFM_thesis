@@ -1,0 +1,3 @@
+Data File,Model,EB,CTX,PDT,Success,Error Message,csv_size,bin_size,compressed_size,sz3_size,zstd_size,is_accurate,compression_time_sz3,compression_time_zstd,compression_time_debug,decompression_time
+167219,70080,2138,3613,2794,True,0.04121518135070801,0.0020520687103271484,5.8882551193237305,5.768722772598267,elecdemand,0,0.001,256,12,True,
+167219,70080,1286,511,846,True,0.03021979331970215,0.0017876625061035156,5.92564058303833,5.9072349071502686,elecdemand,0,0.1,256,12,True,
